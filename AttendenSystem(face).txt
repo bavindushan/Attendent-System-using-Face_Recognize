@@ -1,9 +1,0 @@
-1.webcam
-2.graphic
-3.Encodeing generator
-4.Face recognition
-5.database
-6.add content on databse
-7.add images on db
-8.realtime database
-9.limit
