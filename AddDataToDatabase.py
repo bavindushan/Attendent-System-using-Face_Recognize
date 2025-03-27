@@ -10,19 +10,28 @@ db = firestore.client()
 data = {
     "101": {
         "name": "Bavindu Shan",
-        "major": "Software Engineering",
+        "major": "SE Engineer",
         "starting_year": 2020,
-        "total_attendance": 7,
-        "standing": "G",
+        "total_attendance": 0,
+        "standing": "Good",
         "year": 4,
         "last_attendance_time": "2025-03-27 00:54:34"
     },
     "102": {
         "name": "Ronaldo",
-        "major": "Data Science",
+        "major": "Player",
         "starting_year": 2021,
-        "total_attendance": 6,
-        "standing": "G",
+        "total_attendance": 0,
+        "standing": "Good",
+        "year": 1,
+        "last_attendance_time": "2025-03-27 00:54:34"
+    },
+    "103": {
+        "name": "Elon Musk",
+        "major": "Advisor ",
+        "starting_year": 2021,
+        "total_attendance": 0,
+        "standing": "Good",
         "year": 1,
         "last_attendance_time": "2025-03-27 00:54:34"
     }
